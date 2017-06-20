@@ -17,7 +17,6 @@ The only other file in this repo is the MPL [LICENSE](./LICENSE). The initial [r
         - [ ] tectonic
         - [ ] gke
       - [ ] install & configure ingress & DNS controllers
-        - [ ] coreos
       - [ ] helm install jenkins
         - [ ] port jenkins deployment from ee-infra-jenkins ansible
           - [ ] blog post
@@ -36,3 +35,6 @@ The only other file in this repo is the MPL [LICENSE](./LICENSE). The initial [r
   - [ ] dns branches 
   - [ ] docs branch
     - [ ] sphinx tooling and multicloud static site deployment
+- related work
+  - https://github.com/anaibol/awesome-serverless
+  - https://github.com/Miserlou/Zappa 
