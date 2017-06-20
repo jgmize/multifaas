@@ -5,7 +5,10 @@ The only other file in this repo is the MPL [LICENSE](./LICENSE). The initial [r
 
 ## Roadmap <a name="roadmap"></a>
 
-- [ ] multipass image: see https://giphy.com/gifs/rYOlRMcFH9BFS for examples
+- [ ] github org
+- [ ] logo inspired by https://images-na.ssl-images-amazon.com/images/I/41Qjmnse-QL.jpg
+  - [ ] find better images
+    - https://giphy.com/gifs/rYOlRMcFH9BFS
 - [ ] port status.mozmar.org to generic example
 - [ ] Jenkinsfile with multibranch pipeline ported from bedrock & basket
   - [ ] infra branches
